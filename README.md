@@ -64,6 +64,8 @@ Pour accéder à l'interface de supervision, ouvrez un navigateur sur PC, smartp
 Vous pouvez également utiliser l'application Android fournie :
 https://github.com/sergeskynet-byte/PoolTimer/blob/main/PoolTimer_V27.apk
 
+![Capture d'écran](./images/Capture_appli.jpg)
+
 
 Bon montage !
 N'hésitez pas à partager vos retours et vos améliorations afin de faire évoluer le projet.
