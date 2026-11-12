@@ -19,3 +19,5 @@
 🎯 L'objectif : rendre ma piscine plus autonome, optimiser les cycles de filtration et mieux maîtriser la consommation électrique.
 
 💡 Un projet DIY mêlant électronique, programmation, domotique et développement Android, qui continue d'évoluer au fil des idées et des améliorations !
+
+![Texte alternatif](https://drive.google.com/file/d/1Bxb00531-MNfYPLHYNCvubKgXI_dP7go/view?usp=drive_link)
