@@ -1,3 +1,5 @@
+![Capture d'écran](./images/PoolTimerZR_logo.png)
+
 🏊‍♂️ PoolTimer ZR – La gestion intelligente de la filtration de piscine ! 💧
 
 🔧 Un projet 100 % DIY (Do It Yourself), conçu et développé autour d'un ESP32 pour automatiser et optimiser la filtration de ma piscine en fonction de la température de l'eau.
@@ -20,6 +22,6 @@
 
 💡 Un projet DIY mêlant électronique, programmation, domotique et développement Android, qui continue d'évoluer au fil des idées et des améliorations !
 
-![Capture d'écran](./images/PoolTimerZR_logo.png)
 
-![Texte alternatif](https://drive.google.com/file/d/1Bxb00531-MNfYPLHYNCvubKgXI_dP7go/view?usp=sharing)
+
+
