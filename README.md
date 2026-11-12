@@ -24,29 +24,65 @@
 
 ![Capture d'écran](./images/Fonctionnement_PoolTimerZR.png)
 
+
+
+
+
 Montage : 
 
-Le Pooltimer ce monte à la place de la minuterie mécanique.
+Le PoolTimer se monte en remplacement de la minuterie mécanique d'origine.
 
 ![Capture d'écran](./images/Minuterie.jpg)
 
-Un relais type MS116 est obligatoire pour alimenter la pompe. 
+⚠️ Un relais de type MS116 est obligatoire pour l'alimentation de la pompe.
 
 ![Capture d'écran](./images/Coffret.jpg)
 
-Le circuit imprimer devra être réalisé chez https://jlcpcb.com/ 
+Le circuit imprimé doit être fabriqué chez JLCPCB :
+https://jlcpcb.com/
 
-La résistance R6 devra être remplacer par un strap si vous utiliser une LED 5v.
+La résistance R6 doit être remplacée par un strap si vous utilisez une LED 5 V.
 
-Le code de l'ESP32 est fourni ainsi que l'application. 
+Le code source de l'ESP32 ainsi que l'application Android sont fournis.
 
-Fonctionnement : 
+Mise en service : 
 
-La LED est fixe connectez vous au Wi-Fi  Pool_Timer_CONFIG afin de configurer votre Wi-Fi domestique. La LED devra clignoter puis il est impératif de faire un reset.
+Lorsque la LED est allumée en permanence, connectez-vous au réseau Wi-Fi Pool_Timer_CONFIG afin de configurer votre réseau Wi-Fi domestique.
+Une fois la configuration terminée, la LED doit se mettre à clignoter. ⚠️ Il est alors impératif d'effectuer un redémarrage (reset) du PoolTimer.
 
-Connecter vous avec un navigateur PC, Smartphone, Mac, tapez pooltimer.local ou l'adresse IP du PoolTimer pour configurer ou monitorer.
 
-Vous avez aussi la possibilité d'utiliser l'application fournie.
+Pour accéder à l'interface de supervision, ouvrez un navigateur sur PC, smartphone ou Mac et saisissez :
+- pooltimer.local
+- ou l'adresse IP du PoolTimer
+
+Vous pouvez également utiliser l'application Android fournie :
+https://github.com/sergeskynet-byte/PoolTimer/blob/main/PoolTimer_V27.apk
+
+
+Bon montage !
+N'hésitez pas à partager vos retours et vos améliorations afin de faire évoluer le projet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
