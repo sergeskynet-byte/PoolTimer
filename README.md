@@ -1,6 +1,6 @@
 ![Capture d'écran](./images/PoolTimerZR_logo.png)
 
-🏊‍♂️ PoolTimer ZR – La gestion intelligente de la filtration de piscine ! 💧
+🏊‍♂️ PoolTimer ZR – La gestion intelligente de la filtration de piscine pour environ 40€! 💧
 
 🔧 Un projet 100 % DIY (Do It Yourself), conçu et développé autour d'un ESP32 pour automatiser et optimiser la filtration de ma piscine en fonction de la température de l'eau.
 
