@@ -45,6 +45,9 @@ La résistance R6 doit être remplacée par un strap si vous utilisez une LED 5 
 
 Le code source de l'ESP32 ainsi que l'application Android sont fournis.
 
+Une liste des pièces est fournie.
+![Capture d'écran](./images/PCB.jpg)
+
 Mise en service : 
 
 Lorsque la LED est allumée en permanence, connectez-vous au réseau Wi-Fi Pool_Timer_CONFIG afin de configurer votre réseau Wi-Fi domestique.
