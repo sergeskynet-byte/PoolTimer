@@ -24,3 +24,12 @@
 
 ![Capture d'écran](./images/Fonctionnement_PoolTimerZR.png)
 
+Montage : 
+
+Le Pooltimer ce monte à la place de la minuterie mécanique.
+
+![Capture d'écran](./images/Minuterie.jpg)
+
+
+
+
