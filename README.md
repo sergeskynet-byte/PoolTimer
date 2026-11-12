@@ -69,6 +69,8 @@ https://github.com/sergeskynet-byte/PoolTimer/blob/main/PoolTimer_V27.apk
 
 Bon montage !
 N'hésitez pas à partager vos retours et vos améliorations afin de faire évoluer le projet.
+serge.skynet@gmail.com
+
 
 
 
