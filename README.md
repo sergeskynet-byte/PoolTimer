@@ -45,11 +45,15 @@ La résistance R6 doit être remplacée par un strap si vous utilisez une LED 5 
 
 Le code source de l'ESP32 ainsi que l'application Android sont fournis.
 
+La sonde devra être installé sur un porte sonde à l'entrée de la filtration.
+
+![Capture d'écran](./images/sonde.jpg)
+sonde.jpg
 Des autocollants sont disponibles dans le dossier images (Autocollants.png). 
 
 Une liste des pièces est fournie.
-
 ![Capture d'écran](./images/PCB.jpg)
+
 
 Mise en service : 
 
