@@ -10,7 +10,7 @@
 
 ❄️ Mode hivernage intelligent avec surveillance de la température et protection antigel.
 
-📱 Application Android dédiée pour surveiller et piloter la piscine depuis son smartphone.
+📱 Application Android dédiée pour surveiller et piloter la piscine depuis son smartphone en local.
 
 🌐 Interface Web Wi-Fi accessible depuis un navigateur.
 
