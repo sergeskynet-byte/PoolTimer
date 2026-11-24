@@ -22,6 +22,8 @@
 
 💡 Un projet DIY mêlant électronique, programmation, domotique et développement Android, qui continue d'évoluer au fil des idées et des améliorations !
 
+Pas de dépendance à une serveur extérieur, le PoolTimer fonctionne uniquement en local et est totalement indépendant.
+
 ![Capture d'écran](./images/Fonctionnement_PoolTimer_ZR.png)
 
 
