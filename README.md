@@ -22,7 +22,7 @@
 
 💡 Un projet DIY mêlant électronique, programmation, domotique et développement Android, qui continue d'évoluer au fil des idées et des améliorations !
 
-![Capture d'écran](./images/Fonctionnement_PoolTimerZR.png)
+![Capture d'écran](./images/Fonctionnement_PoolTimer_ZR.png)
 
 
 
