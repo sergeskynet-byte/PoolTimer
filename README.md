@@ -8,7 +8,7 @@
 
 ☀️ Mode canicule pour renforcer la filtration lorsqu'il fait très chaud.
 
-❄️ Mode hivernage intelligent avec surveillance de la température et protection antigel. Il ne faut pas t'utiliser ce mode avec une piscine hors-sol. Si vous avez la filtration à l'extérieur, il faut l'utiliser avec prudence. 
+❄️ Mode hivernage intelligent avec surveillance de la température et protection antigel. Il ne faut pas utiliser ce mode avec une piscine hors-sol. Si vous avez la filtration à l'extérieur, il faut l'utiliser avec prudence. 
 
 📱 Application Android dédiée pour surveiller et piloter la piscine depuis son smartphone en local.
 
