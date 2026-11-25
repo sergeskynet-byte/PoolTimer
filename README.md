@@ -70,7 +70,7 @@ Pour accéder à l'interface de supervision, ouvrez un navigateur sur PC, smartp
 - ou l'adresse IP du PoolTimer
 
 Vous pouvez également utiliser l'application Android fournie :
-https://github.com/sergeskynet-byte/PoolTimer/blob/main/PoolTimer_V27.apk
+https://github.com/sergeskynet-byte/PoolTimer/blob/main/PoolTimer_V28.apk
 
 ![Capture d'écran](./images/Capture_appli.jpg)
 
