@@ -18,6 +18,8 @@
 
 ⚙️ Pilotage manuel ou automatique selon les besoins.
 
+☀️ Mode panneaux solaire : le temps de filtration se cale sur l'heure méridienne afin que le pompe fonctionne pendant la production d'électricité.  
+
 🎯 L'objectif : rendre ma piscine plus autonome, optimiser les cycles de filtration et mieux maîtriser la consommation électrique.
 
 💡 Un projet DIY mêlant électronique, programmation, domotique et développement Android, qui continue d'évoluer au fil des idées et des améliorations !
